@@ -12,7 +12,10 @@
 
 #Para rodar 1 cenário por vez:
 
-ceário login: digitar comando 'cucumber --tags @login'
+cenário login: digitar comando 'cucumber --tags @login'
+
 cenário busca produto: digitar comando 'cucumber --tags @busca_produto
+
 cenário incluir produto: digitar comando 'cucumber --tags @incluir_produto
+
 cenário validar tela: digitar comando 'cucumber --tags @tela_pagamento
